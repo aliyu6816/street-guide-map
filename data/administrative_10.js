@@ -1,0 +1,31 @@
+var json_administrative_10 = {
+"type": "FeatureCollection",
+"name": "administrative_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "air traffic services and training center" }, "geometry": { "type": "Point", "coordinates": [ 7.437515893672214, 10.532945006131705 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "NNDC" }, "geometry": { "type": "Point", "coordinates": [ 7.429851769740025, 10.529327997557273 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "ministry of defence" }, "geometry": { "type": "Point", "coordinates": [ 7.429787383262852, 10.535121407455113 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "DICON HQ" }, "geometry": { "type": "Point", "coordinates": [ 7.430493890119101, 10.535236144559995 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "FRSC" }, "geometry": { "type": "Point", "coordinates": [ 7.430435136455928, 10.534665331170475 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "kaduna state planning and budget commission" }, "geometry": { "type": "Point", "coordinates": [ 7.436666076401376, 10.529849098910777 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "1DIV Officers mess" }, "geometry": { "type": "Point", "coordinates": [ 7.435905183182255, 10.527577600483426 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "KASUPDA" }, "geometry": { "type": "Point", "coordinates": [ 7.433308224003762, 10.526526584213107 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "kaduna state scholarship board" }, "geometry": { "type": "Point", "coordinates": [ 7.433237604282994, 10.524235171920889 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "national library kaduna state" }, "geometry": { "type": "Point", "coordinates": [ 7.433913421962931, 10.521924124968685 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "state ministry of health and services" }, "geometry": { "type": "Point", "coordinates": [ 7.438512862523469, 10.52301968930594 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "ministry of justice" }, "geometry": { "type": "Point", "coordinates": [ 7.440044189783012, 10.522786820043894 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "KADSEMA" }, "geometry": { "type": "Point", "coordinates": [ 7.439442208216044, 10.524243379522261 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "NTA Kaduna" }, "geometry": { "type": "Point", "coordinates": [ 7.438264972433277, 10.52414763598545 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "waterboard" }, "geometry": { "type": "Point", "coordinates": [ 7.435771517161425, 10.523522952374543 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "united nations" }, "geometry": { "type": "Point", "coordinates": [ 7.449608126231364, 10.534943802647545 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "railway property company limted" }, "geometry": { "type": "Point", "coordinates": [ 7.440237108012528, 10.536492133904051 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "federal radIo corperation of nigeria" }, "geometry": { "type": "Point", "coordinates": [ 7.438428079120545, 10.52443223480434 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "nigeria security and civil defense corps" }, "geometry": { "type": "Point", "coordinates": [ 7.441899507167025, 10.528501247339632 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "Premium pension" }, "geometry": { "type": "Point", "coordinates": [ 7.430390265255314, 10.53742011832313 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "KADSWAC" }, "geometry": { "type": "Point", "coordinates": [ 7.436664146877938, 10.535860124526662 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "sir ahmadu bello foundation" }, "geometry": { "type": "Point", "coordinates": [ 7.442963058002752, 10.53666990968923 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "KAEDCO" }, "geometry": { "type": "Point", "coordinates": [ 7.429306399425763, 10.530418579187042 ] } },
+{ "type": "Feature", "properties": { "Id": 0.0, "name": "Nigerian institute for trypanosomiasis research" }, "geometry": { "type": "Point", "coordinates": [ 7.452846181687462, 10.529488471541992 ] } }
+]
+}
